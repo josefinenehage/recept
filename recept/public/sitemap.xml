@@ -11,12 +11,22 @@
         </url>
     
         <url>
+            <loc>http://127.0.0.1:1111/recept/kikartsbiffar/</loc>
+            
+        </url>
+    
+        <url>
             <loc>http://127.0.0.1:1111/recept/lasagne/</loc>
             
         </url>
     
         <url>
             <loc>http://127.0.0.1:1111/recept/linssoppa/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/recept/pasta/</loc>
             
         </url>
     

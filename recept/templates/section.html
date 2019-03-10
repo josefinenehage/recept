@@ -1,0 +1,17 @@
+{% extends "index.html" %}
+
+{% block content %}
+
+{{section.content | safe}}
+{% for page in section.pages | reverse %}
+<div class="post">
+        <h1 class="post-title">
+          <a href="{{ page.permalink }}">
+            {{ page.title }}
+          </a>
+        </h1>
+      </div>
+      {% endfor %}
+
+
+{% endblock content %}

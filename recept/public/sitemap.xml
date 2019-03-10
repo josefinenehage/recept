@@ -1,0 +1,33 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://127.0.0.1:1111/about/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/recept/lasagne/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/recept/pyttipannan/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/recept/stroganoff/</loc>
+            
+        </url>
+    
+    
+        <url>
+            <loc>http://127.0.0.1:1111/</loc>
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/recept/</loc>
+        </url>
+    
+    
+</urlset>

@@ -26,6 +26,11 @@
         </url>
     
         <url>
+            <loc>http://127.0.0.1:1111/recept/pasta/</loc>
+            
+        </url>
+    
+        <url>
             <loc>http://127.0.0.1:1111/recept/pyttipannan/</loc>
             
         </url>
